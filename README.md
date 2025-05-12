@@ -1,4 +1,4 @@
-# Projeto_2-Hip-teses
+# Projeto_2-Hipoteses
 ## Sobre Mim
 
 Oi, me chamo @TaizaFerreira, sou formada em **Enfermagem** e atuei por **17 anos na área da saúde**, passando por diferentes funções, de auxiliar a supervisora. Essa trajetória me moldou como uma profissional **resiliente, organizada** e com **forte senso de responsabilidade**.

@@ -2323,6 +2323,11 @@ Link abaixo.
 
 [https://www.loom.com/share/c20f7424e19a46b59068bd101d8a578a?sid=04edc197-6320-4104-b7f5-bc9ad74a9891](https://www.loom.com/share/c20f7424e19a46b59068bd101d8a578a?sid=04edc197-6320-4104-b7f5-bc9ad74a9891)
 
-### Link notion
+### Link Notion
 
 [https://www.notion.so/Projeto-2-1d2469bffa528024a069c609bde12bb9?pvs=4]
+
+
+### Link BigQuery
+
+[https://console.cloud.google.com/bigquery?project=projeto-2-hipoteses-456812&ws=!1m0&inv=1&invt=AbxPHA]

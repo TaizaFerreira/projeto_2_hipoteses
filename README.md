@@ -9,7 +9,7 @@ Estou cursando **Ciência de Dados** pela **Anhanguera**, com início em feverei
 
 Sou uma pessoa **dedicada, focada e com muita vontade de aprender**, gosto de desafios.
 
-Trago comigo uma bagagem rica em **lidar com pressão, tomar decisões rápidas e trabalhar com pessoas** — habilidades que agora quero canalizar para o mundo da tecnologia.
+Trago comigo uma bagagem rica em **lidar com pressão, tomar decisões rápidas e trabalhar com pessoas**, habilidades que agora quero canalizar para o mundo da tecnologia.
 
 ### Tecnologias e Ferramentas
 - **Linguagens**: SQL, Python  
